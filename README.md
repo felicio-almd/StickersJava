@@ -8,18 +8,19 @@
   Extrai os dados do URL e utilizamos os mais interessantes
   
   Parte 2 - 
-  
+  Mudança no código para consumir imagens da NASA sobre fotos planetárias de dias aleatórios
+  Utilizado refatoração e orientação a objetos, além de gerar figurinhas para o whatsapp com legenda
   
   Parte 3 - 
   
-  Parte 4 - 
+  Parte Final - 
   
-  Parte 5 -
 
 
 #Tecnologias 
 Java - Linguagem de programação orientada a objetos.
 IMDB Api - Fornece dados de filmes e series, como avaliações e ranking de mais assistidos.
+NASA Api - Fornece dados de imagens da astronomia.
 
 
 # O que é uma API ? 🤓☝️
