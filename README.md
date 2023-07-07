@@ -12,8 +12,12 @@
   Utilizado refatoração e orientação a objetos, além de gerar figurinhas para o whatsapp com legenda
   
   Parte 3 - 
+  Melhora no entendimento do projeto, clean code, refatoração, orientação a objetos, 
+  uso de recursos e divisão para consumo de API de cada site a partir de classes de extratores diferentes.
+
+  Parte 4 -
   
-  Parte Final - 
+  Parte 5 - 
   
 
 
