@@ -14,7 +14,7 @@ Parte 3 - Melhora no entendimento do projeto, clean code, refatoração, orienta
 
 Parte 4 - Criação da API, utilização de bancos de dados e springboot. Consumindo essa api com CRUD e listagem. Features de erro.
 
-Parte 5 -
+Parte 5 - Publicando a API no Cloud
 
 #Tecnologias
 Java - Linguagem de programação orientada a objetos.
