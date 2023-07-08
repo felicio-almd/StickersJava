@@ -7,10 +7,11 @@ public class App {
 
     public static void main(String[] args) throws Exception {
 
-        API api = API.NASA;
+        API api = API.LINGUAGENS;
 
         String url = api.getUrl();
         ExtratorConteudo extrator = api.getExtrator();
+
 
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
@@ -24,7 +25,7 @@ public class App {
 
         var criador = new CriadorStickers();
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 5; i++) {
 
             Conteudo conteudo = conteudos.get(i);
 
