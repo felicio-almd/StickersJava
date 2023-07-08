@@ -19,6 +19,7 @@ Parte 5 -
 #Tecnologias
 Java - Linguagem de programação orientada a objetos.
 IMDB Api - Fornece dados de filmes e series, como avaliações e ranking de mais assistidos.
+NASA Api - Fornece dados de imagens da astronomia.
 
 # O que é uma API ? 🤓☝️
 
